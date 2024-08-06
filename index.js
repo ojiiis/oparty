@@ -1,4 +1,4 @@
-exports.oParty = (req)=>{
+exports.ojParty = (req)=>{
     req.files = {};
     req.body = {};
     const qs = require("querystring")
